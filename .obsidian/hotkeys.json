@@ -1,0 +1,42 @@
+{
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Insert"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
+  ]
+}

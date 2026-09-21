@@ -1,0 +1,19 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":sob:",
+    ":heavy_check_mark:",
+    ":yellow_square:",
+    ":yellow_circle:",
+    ":skull:",
+    ":heavy_exclamation_mark:",
+    ":question:",
+    ":grey_question:",
+    ":notebook_with_decorative_cover:",
+    ":black_heart:",
+    ":skull_and_crossbones:"
+  ]
+}

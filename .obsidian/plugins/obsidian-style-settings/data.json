@@ -1,0 +1,16 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-blackout",
+  "encore-settings@@encore-disable-grain": false,
+  "encore-settings@@blur-amount": "encore-blur-off",
+  "encore-settings@@colors": "encore-colors-custom",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-translucency": false,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-bright-accent": false,
+  "encore-settings@@encore-no-excalidraw": false,
+  "encore-settings@@encore-custom-bold@@dark": "#FF1E74",
+  "encore-settings@@encore-custom-h1@@dark": "#6F00FF",
+  "encore-settings@@encore-custom-h2@@dark": "#FF3F89",
+  "encore-settings@@encore-custom-h3@@dark": "#00C7FF",
+  "encore-settings@@encore-custom-italic@@dark": "#00C7FF"
+}

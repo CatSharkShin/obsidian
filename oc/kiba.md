@@ -1,0 +1,29 @@
+[link to refs](https://copyparty.catshark.dev/public/refs/?imgs)
+- i like lighter tummy fur like puppies have. the light fur makes the tummy/chest look more pink.
+- fur is pink around the nose for the same reason
+- tummy/crotch/chest/ass has blush, you can imagine this is from rubs or something
+- the rainbow-black parallax effects on the legs are up for interpretation, 2d version is up you
+- fluff on the avi is up to you, where my model has fur or not is because its nice and efficient to do for VR, but in 2D it might look better in different places. its also not efficient to make my whole avatar fluffy, but in reality its a furry dog, so in 2d i want it to appear so.
+- the hair and fluff on the back is huge and theres a lot of it in VR, i dont want this much hair on the back, like a mullet, its just id look pretty bald if i didnt have it in VR.
+## naked accessories:
+i have accessories/body mods i want even on naked versions of my model
+- the 4 bracelets are 4 separate metal rings, they are a reference to Toboe from Wolfs Rain, they are there even when naked
+- plushie tag on the side
+- razorblade in ear
+	- inspired by
+	- ![[Pasted image 20260922002820.png|300]]
+- screw thru ear
+	- inspired by
+	- ![[Pasted image 20260922002844.png|300]]
+
+https://www.furaffinity.net/view/64613881/
+![[Pasted image 20260922002932.png|600]]
+- nipples
+https://www.furaffinity.net/view/63950719/
+![[Pasted image 20260922003101.png|600]]
+- nipples
+https://www.furaffinity.net/view/65543909/
+![[Pasted image 20260922003101.png|600]]
+- ears,tail
+- love the spot blending
+

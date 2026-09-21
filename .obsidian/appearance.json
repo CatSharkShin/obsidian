@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 25,
+  "translucency": false,
+  "accentColor": "#7300ff",
+  "cssTheme": "Encat",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "interfaceFontFamily": "GohuFont uni14 Nerd Font Mono,Consolas",
+  "textFontFamily": "GohuFont uni14 Nerd Font Mono,Consolas",
+  "monospaceFontFamily": "GohuFont uni14 Nerd Font Mono,Terminus",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

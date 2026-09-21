@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e9019861077aa1b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7cd831693e5cb6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hobbies/Xmas/Gifts.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f093a54e4a829e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7bc5c5a901e61a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8a59ac70d58bd29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d19784e3f91e65ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d30b2c2d3acf805f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5015035263a8cee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf0e796905241f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hobbies/Xmas/Gifts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7cd831693e5cb6f",
+  "lastOpenFiles": [
+    "Hobbies/Xmas/Gifts.md",
+    "Commissions/Drawing 2022-05-09 03.22.14.excalidraw.md",
+    "Commissions/Untitled.md",
+    "School/Thesis Project/Progress.md",
+    "School/Thesis Project/Sources.md",
+    "School/Thesis Project/Ideas.md",
+    "README.md",
+    "dump/Screenshot_344.png",
+    "dump/Laravel.md",
+    "School/Notes/Artifical Intelligence.md"
+  ]
+}

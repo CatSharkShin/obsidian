@@ -1,0 +1,66 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "765QmWwJ_w6h5_HclX1Pj",
+      "name": "purple",
+      "value": "#b06cff"
+    },
+    {
+      "id": "g6Lzlew-fVvzGmlmatgAZ",
+      "name": "gold",
+      "value": "#ffd700"
+    },
+    {
+      "id": "wJfFUCeGSiL13OIIizerr",
+      "name": "pink",
+      "value": "#ff4dad"
+    },
+    {
+      "id": "FFm_0UKHuc94I35Xth3oD",
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {
+      "id": "dHhPtvFppkeUVa_LV6ZNF",
+      "name": "blue",
+      "value": "#00c7ff"
+    },
+    {
+      "id": "HjqQo85i3r9E1YPVfCmzQ",
+      "name": "orange",
+      "value": "#ff9600"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Hobbies/Game making/Orber/Kanban.md",
+      "color": "wJfFUCeGSiL13OIIizerr"
+    },
+    {
+      "path": "00 - Hobbies/Game making/Orber/Main.md",
+      "color": "wJfFUCeGSiL13OIIizerr"
+    },
+    {
+      "path": "03 - Memory/random-things-to-do.md",
+      "color": "wJfFUCeGSiL13OIIizerr"
+    },
+    {
+      "path": "00 - Hobbies/VRChat/♥ Arko Shork.md",
+      "color": "wJfFUCeGSiL13OIIizerr"
+    },
+    {
+      "path": "00 - Hobbies/VRChat/Pubbchi.md",
+      "color": "wJfFUCeGSiL13OIIizerr"
+    },
+    {
+      "path": "00 - Hobbies/VRChat/Kaane.md",
+      "color": "HjqQo85i3r9E1YPVfCmzQ"
+    },
+    {
+      "path": "00 - Hobbies/00 - Projects",
+      "color": "wJfFUCeGSiL13OIIizerr"
+    }
+  ]
+}
