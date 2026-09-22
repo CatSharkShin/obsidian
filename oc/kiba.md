@@ -1,4 +1,5 @@
 [link to refs](https://copyparty.catshark.dev/public/refs/?imgs)
+## detail explanation
 - i like lighter tummy fur like puppies have. the light fur makes the tummy/chest look more pink.
 - fur is pink around the nose for the same reason
 - tummy/crotch/chest/ass has blush, you can imagine this is from rubs or something
