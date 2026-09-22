@@ -11,16 +11,16 @@ i have accessories/body mods i want even on naked versions of my model
 - plushie tag on the side
 - razorblade in ear
 	- inspired by
-	- <img src="Pasted%20image%2020260922002820.png" width="300">
+	- <img src="/99 - assets/attachments/image_1790036365005.png" width="300">
 - screw thru ear
 	- inspired by
 	- <img src="/99 - assets/attachments/image_1790036307116.png" width="300">
 ## insp for parts
 <img src="https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png" width="600">
-https://www.furaffinity.net/view/64613881/
+https://www.furaffinity.net/view/64613881
 - nipples
 <img src="https://d.furaffinity.net/art/chemicalghoul/1770661404/1770661332.chemicalghoul_deer2.png" width="600">
-https://www.furaffinity.net/view/63950719/
+https://www.furaffinity.net/view/63950719
 - butt
 <img src="https://d.furaffinity.net/art/chemicalghoul/1783016089/1783016089.chemicalghoul_backych1.png" width="600">
 https://www.furaffinity.net/view/65543909/
