@@ -9,5 +9,6 @@
   "strictLineBreaks": false,
   "showIndentGuide": true,
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "useMarkdownLinks": true
 }
