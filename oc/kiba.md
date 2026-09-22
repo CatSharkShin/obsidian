@@ -15,15 +15,15 @@ i have accessories/body mods i want even on naked versions of my model
 - screw thru ear
 	- inspired by
 	- ![[Pasted image 20260922002844.png|300]]
-
+## insp for parts
 https://www.furaffinity.net/view/64613881/
-![[Pasted image 20260922002932.png|600]]
+<img src="https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png" width="600">
 - nipples
 https://www.furaffinity.net/view/63950719/
-![[Pasted image 20260922003101.png|600]]
-- nipples
+<img src="https://d.furaffinity.net/art/chemicalghoul/1770661404/1770661332.chemicalghoul_deer2.png" width="600">
+- butt
 https://www.furaffinity.net/view/65543909/
-![[Pasted image 20260922003101.png|600]]
+<img src="https://d.furaffinity.net/art/chemicalghoul/1783016089/1783016089.chemicalghoul_backych1.png" width="600">
 - ears,tail
 - love the spot blending
 
