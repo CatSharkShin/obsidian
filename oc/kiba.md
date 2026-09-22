@@ -15,7 +15,7 @@ i have accessories/body mods i want even on naked versions of my model
 - screw thru ear
 	- inspired by
 	- <img src="/99 - assets/attachments/image_1790036307116.png" width="300">
-## insp for parts
+## insp for parts(dont have 2d refsheet yet)
 <a href="https://www.furaffinity.net/view/64613881">
 <img src="https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png" alt="chemicalghoul" width="600" />
 </a>
