@@ -16,14 +16,22 @@ i have accessories/body mods i want even on naked versions of my model
 	- inspired by
 	- <img src="/99 - assets/attachments/image_1790036307116.png" width="300">
 ## insp for parts
-<img src="https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png" width="600">
-https://www.furaffinity.net/view/64613881
+<a href="https://www.furaffinity.net/view/64613881">
+<img src="https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png" alt="chemicalghoul" width="600" />
+</a>
+
 - nipples
+
+<a href="https://www.furaffinity.net/view/63950719">
 <img src="https://d.furaffinity.net/art/chemicalghoul/1770661404/1770661332.chemicalghoul_deer2.png" width="600">
-https://www.furaffinity.net/view/63950719
+</a>
+
 - butt
+
+<a href="https://www.furaffinity.net/view/65543909/">
 <img src="https://d.furaffinity.net/art/chemicalghoul/1783016089/1783016089.chemicalghoul_backych1.png" width="600">
-https://www.furaffinity.net/view/65543909/
+</a>
+
 - ears,tail
 - love the spot blending
 
