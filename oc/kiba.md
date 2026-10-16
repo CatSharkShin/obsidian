@@ -36,7 +36,9 @@ i have accessories/body mods i want even on naked versions of my model
 ![Image](https://d.furaffinity.net/art/chemicalghoul/1770661404/1770661332.chemicalghoul_deer2.png)
 
 - butt
+
 ![Image](https://d.furaffinity.net/art/chemicalghoul/1783016089/1783016089.chemicalghoul_backych1.png)
+
 - ears,tail
 - love the spot blending
 
