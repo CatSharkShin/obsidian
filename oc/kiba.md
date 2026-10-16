@@ -29,14 +29,14 @@ i have accessories/body mods i want even on naked versions of my model
 	- <img src="/99 - assets/attachments/image_1790036307116.png" width="300">
 - all piercings
 ## insp for parts(dont have 2d refsheet yet)
-![](https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png)
+![Image](https://d.furaffinity.net/art/chemicalghoul/1775760016/1775760016.chemicalghoul_refsheet2.png)
 
 - nipples
 
-![](https://d.furaffinity.net/art/chemicalghoul/1770661404/1770661332.chemicalghoul_deer2.png)
+![Image](https://d.furaffinity.net/art/chemicalghoul/1770661404/1770661332.chemicalghoul_deer2.png)
 
 - butt
-![](https://d.furaffinity.net/art/chemicalghoul/1783016089/1783016089.chemicalghoul_backych1.png)
+![Image](https://d.furaffinity.net/art/chemicalghoul/1783016089/1783016089.chemicalghoul_backych1.png)
 - ears,tail
 - love the spot blending
 
