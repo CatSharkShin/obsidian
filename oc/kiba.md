@@ -15,6 +15,10 @@
 - stiches on arm
 	- these are just some stiches up to the artists interpretation
 	- <img src="/99 - assets/attachments/image_1792438982505.png" width="300">
+- face sticker/tats
+	- star stickers, lil rainbow doodle
+- face bandaid!
+	- the color/style of this can be totally up to the artist
 ## hair
 - black to purple gradient
 - messy, can block eyes sometimes
